@@ -1,11 +1,33 @@
+header {
+    background-color:#e7dcbf;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+
 h1 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    font-size: 45px;
     color:rgb(86, 81, 40);
 }   
 
 h2 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(146, 15, 15);
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
 }
