@@ -1,10 +1,17 @@
+body {
+    background: #c2cad5 url('filigran.png') no-repeat center center fixed;
+    background-size: cover;
+    
+
+    
+}
+
 header {
-    background-color:#e7dcbf;
+    background-color:#c0b79e;
     padding: 20px;
     text-align: center;
     position: relative;
 }
-
 
 h1 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
